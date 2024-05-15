@@ -1,0 +1,16 @@
+{
+  "product": [
+    {
+      "name": "ring",
+      "price": "80000",
+      "desc": "this is ring",
+      "id": "9c11"
+    },
+    {
+      "id": "ddf1",
+      "name": "watch",
+      "price": "2500",
+      "desc": "titan"
+    }
+  ]
+}
